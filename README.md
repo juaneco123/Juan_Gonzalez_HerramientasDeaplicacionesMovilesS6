@@ -1,0 +1,2 @@
+# Juan_Gonzalez_HerramientasDeaplicacionesMovilesS6
+proyecto semana 6 SQLite
